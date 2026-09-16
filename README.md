@@ -57,24 +57,12 @@ Plot the message signal, carrier signal, DSBSC modulated signal, and the recover
 * Verify the generated waveform using Tabulation and Model Waveform.
 
 ---
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/9a457347-dec6-446d-8dda-925f42837f55" />
 
-## TABULATION
-
-| Sl. No. | SIGNAL                 | AMPLITUDE (V)  | FREQUENCY (Hz) |
-| ------- | ---------------------- | -------------- | -------------- |
-| **1**   | **Message Signal**     | **Theory:**    | **Theory:**    |
-|         |                        | **Practical:** | **Practical:** |
-| **2**   | **Carrier Signal**     | **Theory:**    | **Theory:**    |
-|         |                        | **Practical:** | **Practical:** |
-| **3**   | **Modulated Signal**   | **Practical:** |                |
-|         |                        | **Emax =**     |                |
-|         |                        | **Emin =**     |                |
-| **4**   | **Demodulated Signal** | **Practical:** |                |
+OUTPUT:
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/b40b91d6-e309-4f31-9e84-769d94b8b476" />
 
 ---
-
-## MODEL GRAPH
-
-**Practical**
+Result: Thus the DSB-SC-AM Modulation and Demodulation is generated. 
 
 ---
